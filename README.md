@@ -1,6 +1,6 @@
-# 🧮 IoT Smart Calculator
+# 🧮 IoT Calculator
 
-An IoT Smart Calculator is a custom-made smart device built using Embedded Systems and IoT technology. It combines a traditional calculator with smart features such as wireless connectivity, cloud integration, calculation history storage, and AI-based assistance.
+An IoT Calculator is a custom-made device built using Embedded Systems and IoT technology. It combines a traditional calculator with smart features such as wireless connectivity, cloud integration, calculation history storage, and AI-based assistance.
 
 Built using ESP32, Keypad Module, Display Module, and Cloud Services.
 
@@ -13,18 +13,10 @@ Built using ESP32, Keypad Module, Display Module, and Cloud Services.
   - Subtraction
   - Multiplication
   - Division
-  - Percentage Calculation
 
 - IoT Connectivity
   - WiFi Communication
   - Bluetooth Support
-  - Cloud Synchronization
-
-- Smart Features
-  - Calculation History Storage
-  - Remote Data Access
-  - AI Based Problem Solving
-  - Smart Learning Assistant
 
 ---
 
