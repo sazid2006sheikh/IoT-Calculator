@@ -44,13 +44,6 @@ Built using ESP32, Keypad Module, Display Module, and Cloud Services.
 IoT-Smart-Calculator/
 
 ├── Arduino_Code/
-│   └── SmartCalculator.ino
-
-├── Circuit_Diagram/
-
-├── Documentation/
-
-├── Images/
 
 └── README.md
 
